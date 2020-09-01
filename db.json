@@ -1,0 +1,41 @@
+[
+  {
+    id: 0,
+    name: 'Музыкальный сервис YouTube Music',
+    cover:
+      'https://fainaidea.com/wp-content/uploads/2019/09/UT_Music_main-1280x720.jpg',
+    author: {
+      name: 'Максим Шибков',
+    },
+    views: 200,
+    likes: 22,
+    liked: false,
+    createdAt: Date.now(),
+  },
+  {
+    id: 0,
+    name: 'Музыкальный сервис YouTube Music',
+    cover:
+      'https://fainaidea.com/wp-content/uploads/2019/09/UT_Music_main-1280x720.jpg',
+    author: {
+      name: 'Максим Шибков',
+    },
+    views: 200,
+    likes: 22,
+    liked: true,
+    createdAt: Date.now(),
+  },
+  {
+    id: 0,
+    name: 'Музыкальный сервис YouTube Music',
+    cover:
+      'https://fainaidea.com/wp-content/uploads/2019/09/UT_Music_main-1280x720.jpg',
+    author: {
+      name: 'Максим Шибков',
+    },
+    views: 200,
+    likes: 22,
+    liked: true,
+    createdAt: Date.now(),
+  },
+]
